@@ -72,7 +72,7 @@ I work at the intersection of **data, marketing, and business**. With hands-on e
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default" />
@@ -85,12 +85,9 @@ I work at the intersection of **data, marketing, and business**. With hands-on e
 
 ### 🤝 Why Me?
 
-I don’t believe in buzzwords — just solid, clear, and contextual insights that drive action. Whether it’s refining a marketing campaign or improving operational efficiency through analytics, I’m here to ask the right questions and bring structured thinking to ambiguous problems.
+I don’t believe in buzzwords... just solid, clear, and contextual insights that drive action. Whether it’s refining a marketing campaign or improving operational efficiency through analytics, 
+I’m here to ask the right questions and bring structured thinking to ambiguous problems.
 
 If you're looking for someone who’s not only technically capable but **understands the business behind the data**, I’d love to connect.
 
 ---
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge" alt="Lasya GitHub Profile Views" />
-</p>
