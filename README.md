@@ -25,16 +25,16 @@ I work at the intersection of **data, marketing, and business**. With hands-on e
 - 📊 **Tools Proficiency**: Python, R, SQL, Tableau, Power BI, GA4, KNIME, AWS, Excel (advanced), A/B Testing, Time Series Forecasting, Regression Models.
 
 ---
-
-### 📬 Let’s Connect
+### Let’s Connect
 
 <p align="left">
     <a href="mailto:llalp@illinois.edu"><img src="https://img.shields.io/badge/Email-llalp@illinois.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     &nbsp;
-    <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/lasyalv/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     &nbsp;
-    <a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://github.com/lasyalv"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
 
 ---
 
