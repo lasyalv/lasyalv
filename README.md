@@ -27,7 +27,7 @@ I work at the intersection of **data, marketing, and business**. With hands-on e
 ---
 ### 📬 Let’s Connect
 
-[![Email](https://img.shields.io/badge/Email-llalp@illinois.edu-D14836?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:llalp@illinois.edu)
+- 📧 [llalp@illinois.edu](mailto:llalp@illinois.edu) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lasyalv/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lasyalv)
 
